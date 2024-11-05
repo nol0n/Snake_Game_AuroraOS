@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=me.game.snake
+Exec=/usr/bin/me.game.snake
+Name=snake
+Name[ru]=snake
+
+[X-Application]
+Permissions=
+OrganizationName=me.game
+ApplicationName=snake
+ExecDBus=/usr/bin/me.game.snake
